@@ -9,7 +9,7 @@ _Spin those passwords around like they're low on iron!_
 
 ## TODO:
 - Minimum Viable Product
-    - [ ] Read in wordlist
+    - [x] Read in wordlist
     - [ ] Create various rules for password mangling
     - [ ] Speed it up with go routines
     - [ ] CLI Args
